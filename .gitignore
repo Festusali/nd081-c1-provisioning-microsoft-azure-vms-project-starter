@@ -2,3 +2,5 @@
 /cms-env
 *.zip
 *.pyc
+/TestAuth
+/Test Images
